@@ -2,6 +2,31 @@
 
 This is a cheat sheet repo for the [Zod](https://www.npmjs.com/package/zod#introduction) NPM package.
 
+## Table of Contents
+
+- [Zod](#zod)
+  - [Table of Contents](#table-of-contents)
+  - [Installation](#installation)
+  - [Development](#development)
+  - [Usage](#usage)
+    - [Import Zod](#import-zod)
+    - [Getting Started](#getting-started)
+  - [Basic Types](#basic-types)
+  - [Arrays](#arrays)
+  - [Objects](#objects)
+  - [Unions](#unions)
+  - [Literals](#literals)
+  - [String Validation](#string-validation)
+  - [Number Validation](#number-validation)
+  - [Date Validation](#date-validation)
+  - [Array Validation](#array-validation)
+  - [Object Validation](#object-validation)
+  - [Tuple Validation](#tuple-validation)
+  - [Optional Properties](#optional-properties)
+  - [Nullable Properties](#nullable-properties)
+  - [Default Values](#default-values)
+  - [More](#more)
+
 ## Installation
 
 ```bash
