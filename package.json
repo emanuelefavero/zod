@@ -1,0 +1,15 @@
+{
+  "name": "zod",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.ts"
+  },
+  "keywords": [],
+  "author": "Emanuele Favero",
+  "license": "MIT",
+  "dependencies": {
+    "zod": "^3.20.2"
+  }
+}
